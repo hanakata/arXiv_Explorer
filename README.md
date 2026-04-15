@@ -19,7 +19,7 @@ An intelligent, lightweight CLI tool designed for researchers and engineers to e
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Runtime**: Python 3.10+
 * **Data Validation**: `Pydantic` (Strict schema enforcement)
